@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="itog_proj/App.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/MainWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/CarWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/CitiesWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/DeleteWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/DriverWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/EditRoutWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/LoginWindow.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/LoginWindows.axaml" value="itog_proj/itog_proj.csproj" />
+        <entry key="itog_proj/Windows/RoutWindow.axaml" value="itog_proj/itog_proj.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

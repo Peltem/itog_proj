@@ -1,0 +1,306 @@
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.exe
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.deps.json
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.runtimeconfig.json
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.pdb
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Base.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Controls.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.DesignerSupport.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Dialogs.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Markup.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Metal.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.MicroCom.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.OpenGL.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Controls.ColorPicker.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Desktop.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Diagnostics.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Fonts.Inter.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.FreeDesktop.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Native.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Skia.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Themes.Simple.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Win32.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.X11.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Google.Protobuf.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/HarfBuzzSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/MicroCom.Runtime.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/MySql.Data.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/SkiaSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Drawing.Common.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.IO.Pipelines.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Security.Permissions.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Text.Json.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/System.Windows.Extensions.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/Tmds.DBus.Protocol.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ZstdSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-arm64/native/av_libglesv2.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/av_libglesv2.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x86/native/av_libglesv2.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/osx/native/libSkiaSharp.dylib
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+H:/МДК_01.01/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.csproj.AssemblyReference.cache
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/resources
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.GeneratedMSBuildEditorConfig.editorconfig
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.AssemblyInfoInputs.cache
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.AssemblyInfo.cs
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.csproj.CoreCompileInputs.cache
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/references
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/original.dll
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/original.pdb
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/original.ref.dll
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/refint/itog_proj.dll
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.dll
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.pdb
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.csproj.CopyComplete
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.genruntimeconfig.cache
+H:/МДК_01.01/itog_proj/itog_proj/obj/Debug/net6.0/ref/itog_proj.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.deps.json
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.runtimeconfig.json
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/itog_proj.pdb
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Base.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Controls.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.DesignerSupport.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Dialogs.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Markup.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Metal.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.MicroCom.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.OpenGL.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Controls.ColorPicker.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Desktop.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Diagnostics.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Fonts.Inter.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.FreeDesktop.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Native.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Skia.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Themes.Simple.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.Win32.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Avalonia.X11.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Google.Protobuf.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/HarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/MicroCom.Runtime.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/MySql.Data.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/SkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.IO.Pipelines.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Text.Json.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/Tmds.DBus.Protocol.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ZstdSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.csproj.AssemblyReference.cache
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/resources
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.AssemblyInfoInputs.cache
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.AssemblyInfo.cs
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.csproj.CoreCompileInputs.cache
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/references
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/original.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/original.pdb
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/Avalonia/original.ref.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/refint/itog_proj.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.dll
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.pdb
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.csproj.CopyComplete
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/itog_proj.genruntimeconfig.cache
+/home/KHPK.RU/student/Рабочий стол/itog_proj/itog_proj/obj/Debug/net6.0/ref/itog_proj.dll

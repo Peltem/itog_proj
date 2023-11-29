@@ -1,0 +1,42 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:windows="clr-namespace:itog_proj.Windows"
+        xmlns:class="clr-namespace:itog_proj.Class"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        Height="400"
+        Width="400"
+        x:Class="itog_proj.Windows.EditRoutWindow"
+        xmlns:itog_proj = "clr-namespace:itog_proj"
+        x:DataType="class:Route"
+        Title="EditRoutWindow">
+   <StackPanel>
+                <TextBox
+                        x:Name = "TxtName"
+                        Text = "{Binding Name}"
+                        Watermark="New">
+                </TextBox>
+                <TextBox
+                        x:Name = "NewStart"
+                        Text = "{Binding Start}"
+                        Watermark="New Start">
+                </TextBox>
+                <TextBox
+                        x:Name = "NewFinish"
+                        Text = "{Binding Finish}"
+                        Watermark="New Finish">
+                </TextBox>
+                <TextBox
+                        x:Name = "NewDriver"
+                        Text = "{Binding Driver}"
+                        Watermark="New driver">
+                </TextBox>
+                <TextBox
+                        x:Name = "NewCar"
+                        Text = "{Binding Car}"
+                        Watermark="New car">
+                </TextBox>
+                <Button Name="Save_btn" Content="Сохранить" Click="Save_btn_OnClick"></Button>
+           </StackPanel>
+</Window>

@@ -1,0 +1,25 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="itog_proj.Windows.RoutWindow"
+        Title="RoutWindow">
+      <Grid>
+          <TextBox Name="SerchBox" TextChanged="SerchBox_OnTextChanged" ></TextBox>
+          <DataGrid  x:Name="RouteDataGrid" AutoGenerateColumns="False" Height="300" Width="320" VerticalAlignment="Top" x:CompileBindings="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Из города" Binding="{Binding Start}"></DataGridTextColumn>
+                <DataGridTextColumn Header="В город" Binding="{Binding Finish}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Водитель" Binding="{Binding Driver}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Машина" Binding="{Binding Car}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+          <Button Name="Delet_btn" Content="Удалить" Click="Delet_btn_OnClick"></Button>
+          <Button Name="CarOpen_btn"  Content=" Машинки" Click="CarOpen_btn_OnClick"></Button>
+          <Button Name="Driver_Btn"  Content="Водятлы" Click="Driver_Btn_OnClick" ></Button>
+          <Button Name="Cities_btn"  Content="Города" Click="Cities_btn_OnClick"></Button>
+    </Grid>
+</Window>
